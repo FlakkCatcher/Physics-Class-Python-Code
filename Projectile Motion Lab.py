@@ -1,5 +1,5 @@
 import math
-#This is to to get the math functions working properly
+#This is to get the math functions working properly
 
 #########################
 mass = 1            #####
@@ -22,7 +22,7 @@ force = acceleration*mass
 
 print("Horizontal Velocity= ", round(x_velocity, 2), "m/s")
 print("Vertical Velocity =", round(y_velocity, 2), "m/s")
-print ("Total Velocity =", round(total_velocity, 2), "m/s")
+print("Total Velocity =", round(total_velocity, 2), "m/s")
 print("Angle of Release =", round(shot_angle, 2), "degrees")
 print("Initial Acceleration =", round(acceleration, 2), "m/s^2")
 print("Throw Force =", round(force, 2), "N")
